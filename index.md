@@ -17,4 +17,4 @@ There are three main important repositories. The project descriptions and links 
 | ---- | --- | ----- |
 | Backend | This project is the python based Django implementation of an API. It serves as the "backend" for the full-stack web app that is the power analyzer service. | [github.com/power-analyzer/backend](https://github.com/power-analyzer/backend)|
 | Frontend | This project is the ReactJS based UI of the full-stack web app. | [github.com/power-analyzer/frontend](https://github.com/power-analyzer/frontend)
-| Hardware | This project is the code for the physical Device | [github.com/power-analyzer/hardware](https://github.com/power-analyzer/frontend)
+| Hardware | This project is the code for the physical Device | [github.com/power-analyzer/hardware](https://github.com/power-analyzer/hardware)
